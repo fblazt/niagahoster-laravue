@@ -1,5 +1,3 @@
-require('./bootstrap');
-
 window.Vue = require('vue');
 
 import Router from 'vue-router';

@@ -1,12 +1,17 @@
 <template>
-  <div class="text-blue-500 font-bold">
-    Niagahoster
+  <div>
+    <Header></Header>
   </div>
 </template>
 
 <script>
+import Header from './Header/Header';
+
 export default {
-  name: 'Home'
+  name: 'Home',
+  components: {
+    Header
+  }
 }
 </script>
 

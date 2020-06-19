@@ -1,5 +1,5 @@
 <template>
-    <article class="container mx-auto p-4">
+    <article class="container mx-auto mt-4 p-4">
     <div>
       <h2 class="text-3xl text-center">Modul Lengkap untuk Menjalankan Aplikasi PHP Anda.</h2>
     </div>

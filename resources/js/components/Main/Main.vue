@@ -3,6 +3,7 @@
     <MainFirstArticle></MainFirstArticle>
     <MainSecondArticle></MainSecondArticle>
     <MainThirdArticle></MainThirdArticle>
+    <MainFourthArticle></MainFourthArticle>
   </main>
 </template>
 
@@ -10,13 +11,15 @@
 import MainFirstArticle from './MainFirstArticle'
 import MainSecondArticle from './MainSecondArticle'
 import MainThirdArticle from './MainThirdArticle'
+import MainFourthArticle from './MainFourthArticle'
 
 export default {
   name: 'Main',
   components: {
     MainFirstArticle,
     MainSecondArticle,
-    MainThirdArticle
+    MainThirdArticle,
+    MainFourthArticle
   }
 }
 </script>

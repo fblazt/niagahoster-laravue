@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto p-2">
+  <div class="container mx-auto py-2 px-4">
     <div class="flex flex-row flex-wrap justify-between text-sm text-gray-300">
       <div>
         <p>Copyright ©2016 Niagahoster | Hosting powered by PHP7, CloudLinux, CloudFlare, BitNinja and DC Biznet Technovillage Jakarta</p>

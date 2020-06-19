@@ -4,6 +4,7 @@
     <MainSecondArticle></MainSecondArticle>
     <MainThirdArticle></MainThirdArticle>
     <MainFourthArticle></MainFourthArticle>
+    <MainFifthArticle></MainFifthArticle>
   </main>
 </template>
 
@@ -12,6 +13,7 @@ import MainFirstArticle from './MainFirstArticle'
 import MainSecondArticle from './MainSecondArticle'
 import MainThirdArticle from './MainThirdArticle'
 import MainFourthArticle from './MainFourthArticle'
+import MainFifthArticle from './MainFifthArticle'
 
 export default {
   name: 'Main',
@@ -19,7 +21,8 @@ export default {
     MainFirstArticle,
     MainSecondArticle,
     MainThirdArticle,
-    MainFourthArticle
+    MainFourthArticle,
+    MainFifthArticle
   }
 }
 </script>

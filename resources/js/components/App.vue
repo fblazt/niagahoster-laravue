@@ -11,20 +11,7 @@ export default {
 </script>
 
 <style>
-@font-face {
-  font-family: Montserrat;
-  src: url(/assets/fonts/montserrat/Montserrat-Regular.otf);
-}
-@font-face {
-  font-family: Montserrat;
-  src: url(/assets/fonts/montserrat/Montserrat-Light.otf);
-  font-weight:300;
-}
-@font-face {
-  font-family: Montserrat;
-  src: url(/assets/fonts/montserrat/Montserrat-Bold.otf);
-  font-weight:bold
-}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
 

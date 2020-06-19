@@ -1,9 +1,6 @@
 <template>
-  <article class="w-full">
-    <div class="container mx-auto p-4">
-      <h2 class="text-3xl text-center">Semua Paket Hosting Sudah Termasuk</h2>
-    </div>
-    <div class="container mx-auto p-4">
+  <article class="w-full mt-8">
+    <div class="container mx-auto pt-4 px-4">
       <div class="w-full flex flex-col md:flex-row flex-wrap justify-between">
         <div class="w-full md:w-1/2 md:pr-4">
           <p class="text-xl leading-8">Tak perlu menggunakan dedicated server ataupun VPS yang mahal. Layanan PHP hosting murah kami mendukung penuh framework favorit Anda</p>
@@ -29,7 +26,7 @@
         </div>
       </div>
     </div>
-    <hr class="w-full">
+    <hr class="w-full pb-4">
   </article>
 </template>
 

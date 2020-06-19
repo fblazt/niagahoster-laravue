@@ -6,8 +6,8 @@
         <h2 class="text-3xl">Diskon 40% + Domain dan SSL Gratis untuk Anda</h2>
       </div>
       <div class="w-full mt-16 px-4 flex flex-wrap">
-        <div class="w-full sm:w-1/2 md:w-1/4 px-1 md:px-0 py-1">
-          <div class="h-auto sm:h-full md:h-auto w-full text-center border border-solid">
+        <div class="w-full sm:w-1/2 lg:w-1/4 px-1 md:px-0 py-1">
+          <div class="h-auto sm:h-full lg:h-auto w-full text-center border border-solid">
             <div id="title" class="py-2 text-2xl"><b>{{ this.hostingPackage[0].hosting_package }}</b></div>
             <hr class="w-full">
             <div id="price" class="py-2">
@@ -37,8 +37,8 @@
             </div>
           </div>
         </div>
-        <div class="w-full sm:w-1/2 md:w-1/4 px-1 md:px-0 py-1">
-          <div class="h-auto sm:h-full md:h-auto w-full text-center border border-solid">
+        <div class="w-full sm:w-1/2 lg:w-1/4 px-1 md:px-0 py-1">
+          <div class="h-auto sm:h-full lg:h-auto w-full text-center border border-solid">
             <div id="title" class="py-2 text-2xl"><b>{{ this.hostingPackage[1].hosting_package }}</b></div>
             <hr class="w-full">
             <div id="price" class="py-2">
@@ -71,8 +71,8 @@
             </div>
           </div>
         </div>
-        <div class="w-full sm:w-1/2 md:w-1/4 px-1 md:px-0 py-1">
-          <div class="h-auto sm:h-full md:h-auto w-full text-center border border-solid border-blue-500">
+        <div class="w-full sm:w-1/2 lg:w-1/4 px-1 md:px-0 py-1">
+          <div class="h-auto sm:h-full lg:h-auto w-full text-center border border-solid border-blue-500">
             <img src="/assets/images/bestseller_ribbon.png" alt="Best Seller" class="absolute w-24 -mt-2 -ml-2">
             <div id="title" class="py-2 bg-blue-500 text-white text-2xl"><b>{{ this.hostingPackage[2].hosting_package }}</b></div>
             <hr class="w-full border-blue-500">
@@ -108,8 +108,8 @@
             </div>
           </div>
         </div>
-        <div class="w-full sm:w-1/2 md:w-1/4 px-1 md:px-0 py-1">
-          <div class="h-auto sm:h-full md:h-auto w-full text-center border border-solid">
+        <div class="w-full sm:w-1/2 lg:w-1/4 px-1 md:px-0 py-1">
+          <div class="h-auto sm:h-full lg:h-auto w-full text-center border border-solid">
             <div id="title" class="py-2 text-2xl"><b>{{ this.hostingPackage[3].hosting_package }}</b></div>
             <hr class="w-full">
             <div id="price" class="py-2">

@@ -1,7 +1,7 @@
 <template>
   <div class="container mx-auto px-4 py-3 hidden lg:flex" :class="PromoBanner ? 'justify-between' : 'justify-end'">
     <div v-if="PromoBanner" class="-mt-3 flex">
-      <img src="/assets/images/ribbon.png" alt="Promo">
+      <img src="/assets/images/promo_ribbon.png" alt="Promo">
       <span class="ml-2">Gratis Ebook 9 Cara Cerdas Menggunakan Domain [ <span @click="PromoBanner = !PromoBanner" class="cursor-pointer">x</span> ]</span>
     </div>
     <div>

@@ -1,5 +1,5 @@
 <template>
-  <header class="w-full fixed flex flex-col bg-white font-roboto">
+  <header class="w-full fixed z-50 flex flex-col bg-white font-roboto">
     <TopLinks></TopLinks>
     <hr class="w-screen hidden lg:block">
     <div class="container mx-auto p-4 flex flex-row justify-between items-center">

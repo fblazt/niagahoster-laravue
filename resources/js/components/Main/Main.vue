@@ -8,6 +8,7 @@
     <MainSixthArticle></MainSixthArticle>
     <MainSeventhArticle></MainSeventhArticle>
     <MainSocial></MainSocial>
+    <MainContact></MainContact>
   </main>
 </template>
 
@@ -20,6 +21,7 @@ import MainFifthArticle from './MainFifthArticle'
 import MainSixthArticle from './MainSixthArticle'
 import MainSeventhArticle from './MainSeventhArticle'
 import MainSocial from './MainSocial'
+import MainContact from './MainContact'
 
 export default {
   name: 'Main',
@@ -31,7 +33,8 @@ export default {
     MainFifthArticle,
     MainSixthArticle,
     MainSeventhArticle,
-    MainSocial
+    MainSocial,
+    MainContact
   }
 }
 </script>

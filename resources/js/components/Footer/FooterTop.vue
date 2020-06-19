@@ -29,7 +29,7 @@
             <li><a href="#" class="hover:underline">Program Afiliasi</a></li>
           </ul>
         </div>
-        <div class="w-1/2 sm:w-1/4">
+        <div class="w-1/2 sm:w-1/4 mt-12 sm:mt-0">
           <p class="uppercase text-title"><b>Service Hosting</b></p>
           <ul class="mt-5 text-gray-300">
             <li><a href="#" class="hover:underline">Hosting Murah</a></li>
@@ -40,7 +40,7 @@
             <li><a href="#" class="hover:underline">Hosting Laravel</a></li>
           </ul>
         </div>
-        <div class="w-1/2 sm:w-1/4">
+        <div class="w-1/2 sm:w-1/4 mt-12 sm:mt-0">
           <p class="uppercase text-title"><b>Tutorial</b></p>
           <ul class="mt-5 text-gray-300">
             <li><a href="#" class="hover:underline">Knowledgebase</a></li>
@@ -124,13 +124,13 @@
       </div>
       <p class="mt-4 text-sm text-title">Aktivasi instan dengan e-Payment. Hosting dan domain langsung aktif!</p>
     </div>
-    <hr>
+    <hr class="border-gray-900">
   </div>
 </template>
 
 <script>
 export default {
-
+  name: 'FooterTop'
 }
 </script>
 
